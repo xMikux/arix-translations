@@ -1,13 +1,13 @@
 <?php
 
 return[
-    'backups' => 'Backups',
-    'manage-backups' => 'Manage backups',
-    'create-backup' => 'Create backup',
-    'have-been-allocated' => '{{current}} of {{max}} backups have been created for this server.',
+    'backups' => '備份',
+    'manage-backups' => '管理備份',
+    'create-backup' => '建立備份',
+    'have-been-allocated' => '此伺服器已建立 {{current}}／{{max}} 個備份。',
 
-    'name' => 'Name',
-    'size' => 'Size',
+    'name' => '名稱',
+    'size' => '大小',
     'creation-date' => 'Creation date',
     'checksum' => 'Checksum',
 

@@ -71,13 +71,13 @@ return [
         'delete-key' => 'Delete Key',
         'all-requests-invalidated-1' => 'All requests using the',
         'all-requests-invalidated-2' => 'key will be invalidated.',
-        'loading' => 'Loading...',
+        'loading' => '載入中...',
         'no-key-found' => 'No API keys exist for this account.',
         'last-used' => 'Last used',
     ],
 
     'sshKey' => [
-        'loading' => 'Loading...',
+        'loading' => '載入中...',
         'no-key-found' => 'No SSH Keys exist for this account.',
         'added-on' => 'Added on',
 
