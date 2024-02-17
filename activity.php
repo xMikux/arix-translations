@@ -5,6 +5,6 @@ return [
     'activity-log' => 'Activity Log',
     'clear-filters' => 'Clear Filters',
     'metadata' => 'Metadata',
-    'close' => 'Close',
+    'close' => '關閉',
     'no-logs-server' => 'No activity logs available for this server.'
 ];

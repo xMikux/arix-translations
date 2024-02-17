@@ -7,8 +7,8 @@ return [
     'sshkey' => 'SSH Key',
 
     'update-password' => [
-        'current' => 'Current Password',
-        'new' => 'New Password',
+        'current' => '目前密碼',
+        'new' => '新密碼',
         'requirements' => 'Your new password should be at least 8 characters in length and unique to this website.',
         'confirm' => 'Confirm New Password',
         'update' => 'Update Password',
@@ -40,10 +40,10 @@ return [
         'enable' => 'Enable Two-Step',
         
         'disable-dialog' => [
-            'password' => 'Password',
-            'cancel' => 'Cancel',
+            'password' => '密碼',
+            'cancel' => '取消',
             'must-enter-password' => 'You must enter your account password to continue.',
-            'disable' => 'Disable',
+            'disable' => '停用',
         ],
 
         'setup-dialog' => [
@@ -51,8 +51,8 @@ return [
             'account-password' => 'Account Password',
             'qrcode-loading' => 'Waiting for QR code to load...',
             'enter-6digit-password' => 'You must enter the 6-digit code and your password to continue.',
-            'enable' => 'Enable',
-            'cancel' => 'Cancel',
+            'enable' => '啟用',
+            'cancel' => '取消',
         ],
     ],
 
@@ -65,7 +65,7 @@ return [
 
         'your-keys' => 'Your API Key',
         'store-save' => 'The API key you have requested is shown below. Please store this in a safe location, it will not be shown again.',
-        'close' => 'Close',
+        'close' => '關閉',
 
         'delete-api-key' => 'Delete API Key',
         'delete-key' => 'Delete Key',
