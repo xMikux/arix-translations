@@ -1,10 +1,10 @@
 <?php
 
 return [
-    'account-activity-log' => 'Account Activity Log',
-    'activity-log' => 'Activity Log',
-    'clear-filters' => 'Clear Filters',
-    'metadata' => 'Metadata',
+    'account-activity-log' => '帳號活動記錄',
+    'activity-log' => '活動記錄',
+    'clear-filters' => '清除過濾',
+    'metadata' => '後設資料',
     'close' => '關閉',
-    'no-logs-server' => 'No activity logs available for this server.'
+    'no-logs-server' => '此伺服器沒有可用的活動記錄。'
 ];

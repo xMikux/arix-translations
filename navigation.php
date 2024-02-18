@@ -4,7 +4,7 @@ return [
     'search' => '搜尋',
     'search-term' => '搜尋詞語',
     'enter-name-uuid-allocation' => '輸入伺服器名稱、UUID 或是分配來開始搜尋。',
-    'at-least-three-characters' => '請最少輸入三個文字來開始搜尋。',
+    'at-least-three-characters' => '請最少輸入三個字元來開始搜尋。',
     'select-a-server' => '選擇伺服器',
     'no-servers' => '無伺服器',
     'supportcenter' => '支援中心',

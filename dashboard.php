@@ -14,6 +14,6 @@ return [
     'your-servers' => '正在顯示你的伺服器',
     'others-servers' => '正在顯示其他人的伺服器',
     'there-are-no-servers' => '沒有其他伺服器可以顯示。',
-    'there-are-no-servers-associated' => '你的帳戶上沒有關聯的伺服器。',
+    'there-are-no-servers-associated' => '你的帳號上沒有關聯的伺服器。',
     'manage-server' => '管理伺服器',
 ];
