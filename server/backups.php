@@ -21,21 +21,21 @@ return[
     'delete' => '刪除',
 
     'limit-is-0' => '無法在此伺服器上建立備份，因為備份數量限制為 0。',
-    'try-going-back' => '看起來我們已經用完這頁的 Looks like we\'ve run out of backups to show you, try going back a page.',
+    'try-going-back' => '看起來我們沒有更多的備份可供顯示給你，請嘗試返回上一頁。',
     'no-backups' => '看起來這邊目前沒有儲存任何備份。',
-    'no-longer-protected' => 'This backup will no longer be protected from automated or accidental deletions.',
-    'your-server-will-be-stopped' => 'Your server will be stopped. You will not be able to control the power state, access the file manager, or create additional backups until completed.',
-    'delete-all-files' => 'Delete all files before restoring backup.',
-    'permanent-operation' => 'This is a permanent operation. The backup cannot be recovered once deleted.',
+    'no-longer-protected' => '此備份將不再受到自動化或意外刪除的保護。',
+    'your-server-will-be-stopped' => '你的伺服器將會被停止。在完成之前，你無法控制啟動狀態、訪問檔案管理或是建立額外的備份。',
+    'delete-all-files' => '在還原備份前刪除所有檔案。',
+    'permanent-operation' => '這是個永久性操作。一旦刪除備份，將無法再度恢復。',
 
     'create' => [
         'title' => '建立伺服器備份',
         'backup-name' => '備份名稱',
-        'backup-name-description' => 'If provided, the name that should be used to reference this backup.',
-        'ignored-files-directories' => 'Ignored Files & Directories',
-        'ignored-files-directories-description' => ' Enter the files or folders to ignore while generating this backup. Leave blank to use the contents of the .pteroignore file in the root of the server directory if present. Wildcard matching of files and folders is supported in addition to negating a rule by prefixing the path with an exclamation point.',
+        'backup-name-description' => '如果有提供，將會應用於顯示該備份的名稱。',
+        'ignored-files-directories' => '忽略檔案和資料夾',
+        'ignored-files-directories-description' => ' 如有定義，將在產生此備份時忽略所指定的檔案及資料夾。留白將使用目錄中 .pteroignore 的檔案內容（若檔案存在）。支援萬用字元所比對的檔案與資料夾，以及使用驚嘆號在路徑前綴來忽略規則。',
         'locked' => '已鎖定',
-        'locked-description' => 'Prevents this backup from being deleted until explicitly unlocked.',
+        'locked-description' => '在明確解鎖前，防止此備份被刪除。',
         'start' => '開始備份',
     ]
 ];
